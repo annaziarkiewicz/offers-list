@@ -1,0 +1,16 @@
+[
+  {
+    "name": "offers-id",
+    "path": "/offers/:id?",
+    "component": "/Users/aazi/Desktop/AZ/pages/offers/_id.vue",
+    "chunkName": "pages/offers/_id",
+    "_name": "_06d4bc48"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/aazi/Desktop/AZ/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_16fad83c"
+  }
+]

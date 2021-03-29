@@ -1,0 +1,1 @@
+export const NUMBER_OF_OFFERTS_PER_PAGE = 32

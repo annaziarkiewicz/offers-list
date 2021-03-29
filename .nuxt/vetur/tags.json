@@ -1,0 +1,14 @@
+{
+  "Filters": {
+    "description": "Auto imported from components/filters.vue"
+  },
+  "OfferDetails": {
+    "description": "Auto imported from components/offerDetails.vue"
+  },
+  "OffersList": {
+    "description": "Auto imported from components/offersList.vue"
+  },
+  "Pagination": {
+    "description": "Auto imported from components/pagination.vue"
+  }
+}
